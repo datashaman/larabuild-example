@@ -1,3 +1,4 @@
+docker: true
+
 install:
-    # - composer install
-  - echo "hello world"
+  - ['/bin/cat', '/etc/issue']
