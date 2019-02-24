@@ -1,4 +1,4 @@
 docker: true
 
 install:
-  - ['/bin/cat', '/etc/issue']
+  - ['echo', 'hello world']
