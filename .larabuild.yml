@@ -1,5 +1,6 @@
 docker: true
 
 install:
+  - ['pwd']
   - ['echo', 'hello world']
   - ['ls', '-la']
