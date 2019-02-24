@@ -1,2 +1,2 @@
 install:
-    - echo "hello world"
+    - composer install
