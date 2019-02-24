@@ -2,3 +2,4 @@ docker: true
 
 install:
   - ['echo', 'hello world']
+  - ['ls', '-la']
