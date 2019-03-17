@@ -1,4 +1,4 @@
 docker: true
 
 install:
-  - ['composer', 'install']
+  - ['echo', 'hello', 'world']
