@@ -1,4 +1,4 @@
 docker: true
 
 install:
-  - echo hello world
+  - echo $HOME
